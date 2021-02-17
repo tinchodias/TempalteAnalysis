@@ -1,6 +1,8 @@
 # Template Analysis
 
-This is a template to start your project using [this specialized tool](https://github.com/tinchodias/youtube-notes).
+This is a template to start your project using [YoutubeNotes](https://github.com/tinchodias/youtube-notes).
+
+You may want to download this repository, customize it and push it to a new private repository where you can perform the analysis of a series of Youtube videos.
 
 ## File Structure
 
